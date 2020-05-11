@@ -11,15 +11,15 @@ while True:
     choice = int(input())
 
     if choice==1:
-        print("Adding")
+        adding()
     elif choice==2:
-        print("Showing")
+        displaying()
     elif choice==3:
-        print("Searching")
+        searching()
     elif choice==4:
-        print("Updating")
+        updating()
     elif choice==5:
-        print("Deleting")
+        deleting()
     elif choice==6:
         break
     else:
