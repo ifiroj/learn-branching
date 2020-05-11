@@ -1,3 +1,14 @@
+def adding():
+    print("adding")
+def displaying():
+    print("displaying")
+def searching():
+    print("searching")
+def updating():
+    print("updating")
+def deleting():
+    print("Deleted")
+
 while True:
     print("Select an option")
     print("1. Add")
