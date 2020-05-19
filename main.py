@@ -12,3 +12,5 @@ def updating():
 
 def deleting():
     print("Deleted")
+
+# checking {git commit -am ""} command
